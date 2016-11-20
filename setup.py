@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
 
+# 'Whole rewrites / Major Updates'.'Features'.'Bug fixes versions'
 CURRENT_VERSION = "0.0.1"
 LICENSE_TYPE = "Apache"
 
