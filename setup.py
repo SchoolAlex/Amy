@@ -1,35 +1,30 @@
-# Owner: TryAmyAI
+from setuptools import setup, find_packages
 
-# Imports from other files
-from createUsr import newUser
-import usrNum
+CURRENT_VERSION = "0.0.1"
+LICENSE_TYPE = "Apache"
 
-# Imports from python
-import os
-import sys
-import tempfile
-import time
+setup(
+    name = "Amy",
+    version = CURRENT_VERSION,
+    packages = find_packages(),
+    scripts = [''],
 
-def setup():
-    # Get the prefix
-    pre = "Amy >> "
+    install_requires = [''],
 
-    # Get the text that has the number of users
-    txt = open(usrNum.txt)
-    num = txt.read()
-    # If there isn't any other users...
-    if(num == 0):
-        # There isn't any other user, go to create another one.
-        print(pre + "I show that no user exists. Please create a user.")
-        # Give the user time to read
-        time.sleep(3)
-        # Create a user
-        createUsr.newUser()
-    # If there is...
-    else:
-        # There is another user, go to the next step
-        print(pre + "We show that at least one user already exists. Moving to next step.")
-        # Give the user time to read
-        time.sleep(4)
+    package_data = {
+        # If any package contains *.txt or *.rst files, include them:
+        '': ['*.txt', '*.rst'],
+        # And include any *.msg files found in the 'Amy' package, too:
+        'Amy': ['*.msg'],
+    }
 
-setup()
+    # metadata for upload to PyPI
+    author = "Alexander, \'Adeus D. Claid, Aerius L. Anima\' J. Van Matre",
+    author_email = "tryamyai@gmail.com",
+    description = "This is a custom built, general-use, all-around artificial intelligence system.",
+    license = LICENSE_TYPE,
+    keywords = "Amy ai",
+    url = "",   # project home page, if any
+
+    # could also include long_description, download_url, classifiers, etc.
+)
