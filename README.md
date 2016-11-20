@@ -15,8 +15,11 @@
 
 ## Find Us
   Website: [To be developed]
+  
   Email: tryamyai@gmail.com
+  
   Facebook Page: https://www.facebook.com/TryAmyAI/?skip_nax_wizard=true
+  
   Twitter: @TryAmyAI
 
 ## Last of all...
