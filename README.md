@@ -14,20 +14,10 @@
   Yes, AmyAI isn't the most general-friendly, easy-to-use program for the general public, however, we do love help! If you would like to contribute with found errors, fixes, or things that should be added into the code, please do contribute. Once again, we love help. So if you want to contribute, please do with any useful information attached. Thanks a lot!
 
 ## Find Us
-<<<<<<< HEAD
   Website: [To be developed]
   Email: tryamyai@gmail.com
   Facebook Page: https://www.facebook.com/TryAmyAI/?skip_nax_wizard=true
-  Twitter: \@TryAmyAI
-=======
-Website: [To be developed]
-
-Email: tryamyai@gmail.com
-
-Facebook Page: https://www.facebook.com/TryAmyAI/?skip_nax_wizard=true
-
-Twitter: @TryAmyAI
->>>>>>> origin/master
+  Twitter: @TryAmyAI
 
 ## Last of all...
   As a final message, our team at TryAmyAI we would like to thank you all for taking time to read this, read our code, contribute, and interact with us in any way.
