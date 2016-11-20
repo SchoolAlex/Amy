@@ -1,4 +1,5 @@
 # Amy
+<<<<<<< HEAD
 ## Description
 
 ## History
@@ -27,3 +28,5 @@ Alexander, 'Adeus D. Claid, Aerius L. Anima', J. Van Matre - Founder and main de
 
 ## Last of all...
 As a final message, our team at TryAmyAI we would like to thank you all for taking time to read this, read our code, contribute, and interact with us in any way.
+=======
+>>>>>>> origin/master
