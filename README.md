@@ -20,7 +20,7 @@ Email: tryamyai@gmail.com
 
 Facebook Page: https://www.facebook.com/TryAmyAI/?skip_nax_wizard=true
 
-Twitter: \@TryAmyAI
+Twitter: @TryAmyAI
 
 ## Last of all...
 As a final message, our team at TryAmyAI we would like to thank you all for taking time to read this, read our code, contribute, and interact with us in any way.
