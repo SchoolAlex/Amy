@@ -15,8 +15,11 @@ Yes, AmyAI isn't the most general-friendly, easy-to-use program for the general 
 
 ## Find Us
 Website: [To be developed]
+
 Email: tryamyai@gmail.com
+
 Facebook Page: https://www.facebook.com/TryAmyAI/?skip_nax_wizard=true
+
 Twitter: \@TryAmyAI
 
 ## Last of all...
