@@ -1,18 +1,29 @@
 from setuptools import setup, find_packages
 
+# General Variables
 # 'Whole rewrites / Major Updates'.'Features'.'Bug fixes versions'
+AUTHORS = [
+            "Alexander J. Van Matre",
+            "Adeus D. Claid",
+            "Aerius L. Anima"
+          ]
+BASIC_DESCRIPTION = "An artificial intelligence system for general, and all, purposes."
+CONTACT = "tryamyai@gmail.com"
 CURRENT_VERSION = "0.0.1"
 LICENSE_TYPE = "Apache"
+GITHUB_LINK = "https://github.com/alexjvan/Amy"
+PROJECT_NAME = "Amy"
+PROJECT_COMPANY = "TryAmyAI"
 
 setup(
-    name = "Amy",
-    author = "Alexander, \'Adeus D. Claid, Aerius L. Anima\' J. Van Matre",
-    author_email = "tryamyai@gmail.com",
-    version = CURRENT_VERSION,
-    description = "This is a general-use artificial intelligence system.",
-    long_description = open('README.rst').read(),
-    packages = find_packages(),
-    install_requires = [''],
-    license = LICENSE_TYPE,
-    keywords = "Amy AI artificial intelligence Alexander Van Matre Adeus Claid Aerius Anima",
+        name = PROJECT_NAME,
+        author = AUTHORS,
+        author_email = CONTACT,
+        version = CURRENT_VERSION,
+        description = BASIC_DESCRIPTION,
+        long_description = open('README.rst').read(),
+        packages = find_packages(),
+        install_requires = [''],
+        license = LICENSE_TYPE,
+        url = GITHUB_LINK
 )
