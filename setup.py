@@ -1,7 +1,6 @@
 from setuptools import setup, find_packages
 
 # General Variables
-# 'Whole rewrites / Major Updates'.'Features'.'Bug fixes versions'
 AUTHORS = [
             "Alexander J. Van Matre",
             "Adeus D. Claid",
@@ -9,6 +8,7 @@ AUTHORS = [
           ]
 BASIC_DESCRIPTION = "An artificial intelligence system for general, and all, purposes."
 CONTACT = "tryamyai@gmail.com"
+# 'Whole rewrites / Major Updates'.'Features'.'Bug fixes versions'
 CURRENT_VERSION = "0.0.1"
 LICENSE_TYPE = "Apache"
 GITHUB_LINK = "https://github.com/alexjvan/Amy"
