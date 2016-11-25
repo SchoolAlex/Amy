@@ -3,6 +3,7 @@ Here are features that are planned on being implemented.
 
 Brain
 ------
+* Data Extraction
 * Game Learning
 * Information Retrieval
 * Information Extraction
@@ -14,6 +15,7 @@ Brain
 * Logical Foresight
 * Query Expansion
 * Question Answering
+* Rationality - "Is what I am doing right?"
 * Self-Code Editing
 * Situational Foresight
 
@@ -49,7 +51,9 @@ Speech
 
 Visual
 ------
+* Computer Vision
 * Image Retrieval
+* Lip Reading
 * Real-Time Situational Analysis
 * Recognition
   * Object Recognition
